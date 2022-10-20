@@ -63,3 +63,6 @@ const listarFilmesComLongaDuracao = () => {
 
   // chamar a função de listar os filmes aqui depois de chamar a função de adicionar
   console.log(listarFilmesComLongaDuracao())
+
+  //alterações myllena
+  console.log('Olá')
