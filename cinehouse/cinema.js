@@ -64,5 +64,14 @@ const listarFilmesComLongaDuracao = () => {
   // chamar a função de listar os filmes aqui depois de chamar a função de adicionar
   console.log(listarFilmesComLongaDuracao())
 
+  adicionarFilme({
+    codigo: 7,
+    titulo: "O Poderoso Chefão 2",
+    atores: ["Marlon Brando", "Al Pacino", "James Caan"],
+    anoDeLancamento: 1974,
+    duracao: 2
+  })
+
+
   //alterações myllena
   console.log('Olá')
